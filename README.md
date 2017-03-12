@@ -1,0 +1,1 @@
+# parallel-implementation-of-a-simple-compartmental-Hodgkin-Huxley-neuron-model-using-MPI
